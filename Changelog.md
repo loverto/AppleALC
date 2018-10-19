@@ -1,5 +1,8 @@
 AppleALC Changelog
 ==================
+
+- Added ALC282 layout-id 22 for Lenovo Y430P  by lovert
+
 #### v1.3.3
 - Added ALC235 layout-id 14 for Lenovo Y520/Y720 series by the-braveknight
 - Added ALC230 layout-id 20 for Lenovo Ideapad 320 by maiconjs
